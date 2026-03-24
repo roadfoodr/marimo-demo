@@ -63,7 +63,7 @@ Desktop.ini
 # .cursorignore
 
 # Claude tooling (state/history)
-.claude/
+# .claude/
 # CLAUDE.md
 # RULES.md
 # RULE.md
